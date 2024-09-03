@@ -1,32 +1,32 @@
 
-# Guía para Instalar Ollama y Configurar el Modelo LLaMA 3.1 Localmente
+# Guide to Installing Ollama and Setting Up the LLaMA 3.1 Model Locally
 
-Este documento proporciona una guía rápida para instalar **Ollama** y configurar el modelo **LLaMA 3.1** localmente en tu máquina.
+This document provides a quick guide to installing **Ollama** and setting up the **LLaMA 3.1** model locally on your machine.
 
-## 1. Instalación de Ollama
+## 1. Installing Ollama
 
-### Paso 1: Descargar e instalar Ollama
+### Step 1: Download and Install Ollama
 
-Visita la [página oficial de Ollama](https://ollama.com) y sigue las instrucciones para descargar e instalar la aplicación en tu sistema operativo (disponible para macOS y Windows).
+Visit the [official Ollama website](https://ollama.com) and follow the instructions to download and install the application on your operating system (available for macOS and Windows).
 
-## 2. Configuración del Modelo LLaMA 3.1
+## 2. Setting Up the LLaMA 3.1 Model
 
-### Paso 1: Abrir el terminal o línea de comandos
+### Step 1: Open Terminal or Command Prompt
 
-Una vez que Ollama esté instalado, abre una terminal o línea de comandos.
+Once Ollama is installed, open a terminal or command prompt.
 
-### Paso 2: Descargar el modelo LLaMA 3.1
+### Step 2: Download the LLaMA 3.1 Model
 
-Utiliza el siguiente comando para descargar y configurar el modelo LLaMA 3.1:
+Use the following command to download and set up the LLaMA 3.1 model:
 
 ```bash
 ollama push llama3.1
 ```
 
-## 3. Verificación de la Instalación
+## 3. Verifying the Installation
 
-Si el comando anterior se ejecuta correctamente, habrás descargado y configurado el modelo LLaMA 3.1 en tu máquina local.
+If the above command executes successfully, you will have downloaded and set up the LLaMA 3.1 model on your local machine.
 
-## Conclusión
+## Conclusion
 
-Siguiendo estos simples pasos, habrás instalado Ollama y configurado el modelo LLaMA 3.1 de manera rápida y eficiente. Ahora puedes comenzar a utilizar el modelo para tus necesidades de procesamiento de lenguaje natural.
+By following these simple steps, you will have installed Ollama and set up the LLaMA 3.1 model quickly and efficiently. You can now start using the model for your natural language processing needs.
