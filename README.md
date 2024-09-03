@@ -3,6 +3,10 @@
 
 This document provides a quick guide to installing **Ollama** and setting up the **LLaMA 3.1** model locally on your machine.
 
+## ⚠️ Prerequisites Required
+
+Before executing the code in this Jupyter Notebook, **it is essential to ensure that the following prerequisites are met**:
+
 ## 1. Installing Ollama
 
 ### Step 1: Download and Install Ollama
